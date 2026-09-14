@@ -1,0 +1,6 @@
+{
+  "name": "Consulta CNPJ - Android Jetpack Compose",
+  "description": "Aplicativo Android completo em Kotlin e Jetpack Compose para consulta cadastral de empresas via BrasilAPI com Retrofit e ViewModel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
